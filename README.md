@@ -2,5 +2,9 @@
 Custom_VideoPlayer_SwiftUI
 
 
-https://github.com/user-attachments/assets/f61640ce-4f9e-4c1f-89ff-7df9a9689cf3
+
+
+https://github.com/user-attachments/assets/72a68d48-aa34-4a6a-ab39-f885afbacecd
+
+
 
